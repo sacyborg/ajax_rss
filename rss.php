@@ -2,6 +2,7 @@
  $q= $_GET["q"];
  if($q=="cnn")
 	//Added
+	//y1
  $xml="http://rss.cnn.com/rss/edition.rss";
  //else if($q=="bbc")
  else if($q=="pcw")
